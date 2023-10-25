@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "RM99718RICARDOLIMA"
+  default = "rm9971812345"
 }
 
 variable "website_endpoint" {
