@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "FIAP" {
   provider = azurerm.cloud
-  name     = "rg-staticsite"
+  name     = "rg-staticsite1985"
   location = "eastus"
 }
 
